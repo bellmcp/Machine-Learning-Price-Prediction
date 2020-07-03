@@ -16,15 +16,11 @@ A machine learning model to predict the selling price of goods to help an entrep
 
 # Resources
 
-* Report
-* Keynote
+* Full Report
+* Presentation
 * Video
 
 # Performance & Visualization
-
-### Model Predictions vs Actual Values
-
-Image goes here
 
 ### Model Predictions vs Actual Values
 
