@@ -8,11 +8,17 @@ A machine learning model to predict the selling price of goods to help an entrep
 
 # Repository included:
 
-* Data Cleaning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15cYqMm6y8VWWPwhNnA2aFZJmPjUxIUZh)
+* **Data Cleaning**  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15cYqMm6y8VWWPwhNnA2aFZJmPjUxIUZh)
 * **Linear Regression**  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eliQ05XPm-mbUQlIb9UDg8VqKah4xqXV)
 * **Support Vector Regression (SVR)**  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1G4f8RtllYEFZPYS7PQcfdsqGQvjpwdSx)
 * **Feedforward Neural Network**  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CZFaD_0LdcZM3fXOt9gGK5uLTd4E0dR5)
 * Sample Data: `Raw`, `Cleaned` & `Test`.
+
+# Documentations
+
+* Report
+* Keynote
+* Video
 
 # What I Learned
 
