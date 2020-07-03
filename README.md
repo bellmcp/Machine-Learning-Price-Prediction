@@ -1,5 +1,5 @@
 # Price Prediction — Machine Learning Project
-A machine learning model to predict the selling price of goods to help an entrepreneur understand important pricing factors in the agricultural industry. Highly comprehensive analysis with all data cleaning, exploration, visualization, feature selection, model building, evaluation, and assumptions with validity steps explained in detail.
+A machine learning model to predict the selling price of goods to help an entrepreneur understand important pricing factors in the industry. Highly comprehensive analysis with all data cleaning, exploration, visualization, feature selection, model building, evaluation, and assumptions with validity steps explained in detail.
 
 <br>
 <p align="center">
