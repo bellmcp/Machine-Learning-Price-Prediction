@@ -8,10 +8,10 @@ A machine learning model to predict the selling price of goods to help an entrep
 
 # Repository included:
 
-* Data Cleaning
-* **Linear Regression** model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
-* **Support Vector Regression (SVR)** model
-* **Feedforward Neural Network** model
+* Data Cleaning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+* **Linear Regression ** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+* **Support Vector Regression (SVR) ** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+* **Feedforward Neural Network ** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 * Sample Data: `Raw`, `Cleaned` & `Test`.
 
 # What I Learned
