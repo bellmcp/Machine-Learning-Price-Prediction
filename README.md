@@ -9,9 +9,9 @@ A machine learning model to predict the selling price of goods to help an entrep
 # Repository included:
 
 * Data Cleaning
-* Linear Regression model
-* Support Vector Regression model
-* Feedforward Neural Network model
+* **Linear Regression** model
+* **Support Vector Regression (SVR)** model
+* **Feedforward Neural Network** model
 * Sample Data: `/Raw Data` & `/Cleaned Data`.
 
 # What I Learned
