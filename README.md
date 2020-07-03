@@ -23,25 +23,23 @@ A machine learning model to predict the selling price of goods to help an entrep
 # Performance & Visualization
 
 ### Model Predictions vs Actual Values
+Graph shows predictions miss the actual values at some places but given that we want to avoid overfitting and want our model to generalize well and perform well on unseen test data we. We will have to compromise a bit (bias-variance tradeoff)
 
 * **Linear Regression**
 <p align="center">
   <img src="https://raw.githubusercontent.com/bellmcp/Machine-Learning-Price-Prediction/master/Assets/ActualVsPredicted_Linear.png" />
 </p>
-Graph shows predictions miss the actual values at some places but given that we want to avoid overfitting and want our model to generalize well and perform well on unseen test data we. We will have to compromise a bit (bias-variance tradeoff)
-<br>
+
 * **Support Vector Regression (SVR)**
 <p align="center">
   <img src="https://raw.githubusercontent.com/bellmcp/Machine-Learning-Price-Prediction/master/Assets/ActualVsPredicted_SVR.png" />
 </p>
-Graph shows predictions miss the actual values at some places but given that we want to avoid overfitting and want our model to generalize well and perform well on unseen test data we. We will have to compromise a bit (bias-variance tradeoff)
-<br>
+
 * **Feedforward Neural Network**
 <p align="center">
   <img src="https://raw.githubusercontent.com/bellmcp/Machine-Learning-Price-Prediction/master/Assets/ActualVsPredicted_FFNN.png" />
 </p>
-Graph shows predictions miss the actual values at some places but given that we want to avoid overfitting and want our model to generalize well and perform well on unseen test data we. We will have to compromise a bit (bias-variance tradeoff)
-<br>
+
 ### Mean Squared Error (MSE) & Mean Absolute Percentage Error (MAPE)
 
 Image goes here
