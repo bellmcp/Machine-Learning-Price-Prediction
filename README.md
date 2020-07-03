@@ -6,9 +6,13 @@ A machine learning model to predict the selling price of goods to help an entrep
   <img src="https://bellmcp.work/img/Projects_xPense.jpg" />
 </p>
 
-# Demo
+# Repository included:
 
-* [bellmcp.work/demo/xPense](https://bellmcp.work/demo/xPense)
+* Data Cleaning
+* Linear Regression model
+* Support Vector Regression model
+* Feedforward Neural Network model
+* Sample Data: `/Raw Data` & `/Cleaned Data`.
 
 # What I Learned
 
