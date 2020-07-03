@@ -42,7 +42,20 @@ Graph shows predictions miss the actual values at some places but given that we 
 
 ### Mean Squared Error (MSE) & Mean Absolute Percentage Error (MAPE)
 
-Image goes here
+* **Linear Regression**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bellmcp/Machine-Learning-Price-Prediction/master/Assets/Perf_Linear.png" />
+</p>
+
+* **Support Vector Regression (SVR)**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bellmcp/Machine-Learning-Price-Prediction/master/Assets/Perf_SVR.png" />
+</p>
+
+* **Feedforward Neural Network**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bellmcp/Machine-Learning-Price-Prediction/master/Assets/Perf_FFNN.png" />
+</p>
 
 
 # What I Learned
