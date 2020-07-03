@@ -17,8 +17,7 @@ A machine learning model to predict the selling price of goods to help an entrep
 # Resources
 
 * Full Report
-* Presentation
-* Video
+* Keynote
 
 # Performance & Visualization
 
