@@ -16,8 +16,8 @@ A machine learning model to predict the selling price of goods to help an entrep
 
 # Resources
 
-* Full Report [Download (.pdf | 2.2 MB)](https://raw.githubusercontent.com/bellmcp/Machine-Learning-Price-Prediction/master/Documents/รายงานโครงการการตั้งราคาสินค้า_6033657523_updated.pdf)
-* Keynote [Download (.pdf | 7.4 MB)](https://raw.githubusercontent.com/bellmcp/Machine-Learning-Price-Prediction/master/Documents/นำเสนอโครงการการตั้งราคาสินค้า_6033657523_updated.pdf)
+* **Full Report** [Download (.pdf | 2.2 MB)](https://raw.githubusercontent.com/bellmcp/Machine-Learning-Price-Prediction/master/Documents/รายงานโครงการการตั้งราคาสินค้า_6033657523_updated.pdf)
+* **Keynote** [Download (.pdf | 7.4 MB)](https://raw.githubusercontent.com/bellmcp/Machine-Learning-Price-Prediction/master/Documents/นำเสนอโครงการการตั้งราคาสินค้า_6033657523_updated.pdf)
 
 # Performance & Visualization
 
