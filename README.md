@@ -3,7 +3,7 @@ A machine learning model to predict the selling price of goods to help an entrep
 
 <br>
 <p align="center">
-  <img src="https://bellmcp.work/img/Projects_xPense.jpg" />
+  <img src="https://bellmcp.work/img/Projects_ML-min.jpg" />
 </p>
 
 # Repository Include
