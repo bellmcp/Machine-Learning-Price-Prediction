@@ -57,18 +57,11 @@ Graph shows predictions miss the actual values at some places but given that we 
   <img src="https://raw.githubusercontent.com/bellmcp/Machine-Learning-Price-Prediction/master/Assets/Perf_FFNN.png" />
 </p>
 
-
-# What I Learned
-
-* Advance JavaScript features such as function constructors, prototypal inheritance, first-class functions, closures, the bind and apply methods, and more. 
-* Learn how to make JavaScript code interact with webpages: DOM manipulation.
-* Implementing MVC (Model-View-Controller) architecture: `BUDGET CONTROLLER`, `APP CONTROLLER` & `UI CONTROLLER`.
-
 # License
 
 ### Source Code License
 
-Licensed under [The MIT License](https://github.com/bellmcp/xPense-Budget-Manager/blob/master/LICENSE). You could use the source code for whatever you want as long as the LICENSE file or the license header in the source code still there.
+Licensed under [The MIT License](https://github.com/bellmcp/Machine-Learning-Price-Prediction/blob/master/LICENSE). You could use the source code for whatever you want as long as the LICENSE file or the license header in the source code still there.
 
 ### Documentation License
 
