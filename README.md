@@ -12,7 +12,7 @@ A machine learning model to predict the selling price of goods to help an entrep
 * **Linear Regression** model
 * **Support Vector Regression (SVR)** model
 * **Feedforward Neural Network** model
-* Sample Data: `/Raw Data` & `/Cleaned Data`.
+* Sample Data: `Raw`, `Cleaned` & `Test`.
 
 # What I Learned
 
