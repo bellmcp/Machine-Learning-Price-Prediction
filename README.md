@@ -23,7 +23,7 @@ A machine learning model to predict the selling price of goods to help an entrep
 # Performance & Visualization
 
 ### Model Predictions vs Actual Values
-Graph shows predictions miss the actual values at some places but given that we want to avoid overfitting and want our model to generalize well and perform well on unseen test data we. We will have to compromise a bit (bias-variance tradeoff)
+Graph shows predictions miss the actual values at some places but given that we want to avoid overfitting and want our model to generalize well and perform well on unseen test data. We will have to compromise a bit (bias-variance tradeoff)
 
 * **Linear Regression**
 <p align="center">
