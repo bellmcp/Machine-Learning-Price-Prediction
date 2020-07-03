@@ -9,7 +9,7 @@ A machine learning model to predict the selling price of goods to help an entrep
 # Repository included:
 
 * Data Cleaning
-* **Linear Regression** model
+* **Linear Regression** model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 * **Support Vector Regression (SVR)** model
 * **Feedforward Neural Network** model
 * Sample Data: `Raw`, `Cleaned` & `Test`.
