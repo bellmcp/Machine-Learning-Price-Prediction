@@ -30,17 +30,20 @@ A machine learning model to predict the selling price of goods to help an entrep
 </p>
 Graph shows predictions miss the actual values at some places but given that we want to avoid overfitting and want our model to generalize well and perform well on unseen test data we. We will have to compromise a bit (bias-variance tradeoff)
 
+
 * **Support Vector Regression (SVR)**
 <p align="center">
   <img src="https://raw.githubusercontent.com/bellmcp/Machine-Learning-Price-Prediction/master/Assets/ActualVsPredicted_SVR.png" />
 </p>
 Graph shows predictions miss the actual values at some places but given that we want to avoid overfitting and want our model to generalize well and perform well on unseen test data we. We will have to compromise a bit (bias-variance tradeoff)
 
+
 * **Feedforward Neural Network**
 <p align="center">
   <img src="https://raw.githubusercontent.com/bellmcp/Machine-Learning-Price-Prediction/master/Assets/ActualVsPredicted_FFNN.png" />
 </p>
 Graph shows predictions miss the actual values at some places but given that we want to avoid overfitting and want our model to generalize well and perform well on unseen test data we. We will have to compromise a bit (bias-variance tradeoff)
+
 
 ### Mean Squared Error (MSE) & Mean Absolute Percentage Error (MAPE)
 
