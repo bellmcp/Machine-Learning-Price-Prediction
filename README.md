@@ -6,7 +6,7 @@ A machine learning model to predict the selling price of goods to help an entrep
   <img src="https://bellmcp.work/img/Projects_xPense.jpg" />
 </p>
 
-# Repository Include:
+# Repository Include
 
 * **Data Cleaning**  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15cYqMm6y8VWWPwhNnA2aFZJmPjUxIUZh)
 * **Linear Regression**  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eliQ05XPm-mbUQlIb9UDg8VqKah4xqXV)
@@ -19,6 +19,21 @@ A machine learning model to predict the selling price of goods to help an entrep
 * Report
 * Keynote
 * Video
+
+# Performance & Visualization
+
+### Model Predictions vs Actual Values
+
+Image goes here
+
+### Model Predictions vs Actual Values
+
+Image goes here
+
+### Mean Squared Error (MSE) & Mean Absolute Percentage Error (MAPE)
+
+Image goes here
+
 
 # What I Learned
 
