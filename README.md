@@ -24,7 +24,20 @@ A machine learning model to predict the selling price of goods to help an entrep
 
 ### Model Predictions vs Actual Values
 
-Image goes here
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bellmcp/Machine-Learning-Price-Prediction/master/Assets/ActualVsPredicted_Linear.png" />
+</p>
+
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bellmcp/Machine-Learning-Price-Prediction/master/Assets/ActualVsPredicted_SVR.png" />
+</p>
+
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bellmcp/Machine-Learning-Price-Prediction/master/Assets/ActualVsPredicted_FFNN.png" />
+</p>
 
 ### Mean Squared Error (MSE) & Mean Absolute Percentage Error (MAPE)
 
